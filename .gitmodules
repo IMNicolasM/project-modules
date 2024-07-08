@@ -178,3 +178,15 @@
 [submodule "Modules/Iqreable"]
 	path = Modules/Iqreable
 	url = https://github.com/imagina/imaginacms-iqreable.git
+[submodule "Modules/Ifollow"]
+	path = Modules/Ifollow
+	url = https://github.com/imagina/imaginacms-ifollow.git
+[submodule "Modules/Iwebhooks"]
+	path = Modules/Iwebhooks
+	url = https://github.com/imagina/imaginacms-iwebhook.git
+[submodule "Modules/Ifeed"]
+	path = Modules/Ifeed
+	url = https://github.com/imagina/imaginacms-ifeed.git
+[submodule "Modules/Iaccounting"]
+	path = Modules/Iaccounting
+	url = https://github.com/imagina/imaginacms-iaccounting.git
